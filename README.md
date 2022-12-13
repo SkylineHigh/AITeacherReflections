@@ -1,6 +1,7 @@
 # AITeacherReflections
 
 Important points and things to consider when addressing the ChatGPT dilemma:
+
 •	Alon’s Point: felt bad to see code that took a long time to write produced so quickly
 •	Jasper’s Point: like a friend
 •	When its not free: The person sitting next to you
