@@ -1,4 +1,4 @@
-Topics and Concepts with Articles for Summer Conference AI Course:
+## Topics and Concepts with Articles for Summer Conference AI Course:
 
 1 - Use of Tools
 When a student tells you they use a system like one of these: https://www.unite.ai/10-best-ai-tools-for-education/
